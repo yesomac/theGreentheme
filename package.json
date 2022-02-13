@@ -1,0 +1,31 @@
+{
+    "name": "green-blue",
+    "displayName": "green_blue",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Green&Blue-G",
+        "Green&Blue-B"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Green&Blue-G",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green&Blue-color-theme.json"
+            },
+            {
+                "label": "Green&Blue-B",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green&Blue-color-B-theme.json"
+            }
+        ]
+    }
+}
