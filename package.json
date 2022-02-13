@@ -2,7 +2,7 @@
     "name": "green-blue",
     "displayName": "green_blue",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -34,7 +34,7 @@
         "email": "yesdev19@gmail.com"
     },
     "repository": {
-        "url": "git@github.com:yesomac/theGreentheme.git",
+        "url": "https://github.com/yesomac/theGreentheme.git",
         "type": "git"
     },
     "publisher": "YesCode",
