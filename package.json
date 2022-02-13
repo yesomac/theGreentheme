@@ -27,5 +27,16 @@
                 "path": "./themes/Green&Blue-color-B-theme.json"
             }
         ]
-    }
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Code",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "git@github.com:yesomac/theGreentheme.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
 }
